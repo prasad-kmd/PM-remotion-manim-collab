@@ -1,0 +1,21 @@
+# Installed skill copies (managed by `npx skills`; tracked via skills-lock.json)
+.agents/
+.claude/
+
+# Dependencies / caches / build output
+node_modules/
+.npm/
+.cache/
+.remotion/
+.next/
+dist/
+build/
+out/
+coverage/
+.DS_Store
+*.log
+
+# Rendered media (generated; keep source only)
+*.mp4
+*.webm
+*.mov
